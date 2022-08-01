@@ -23,6 +23,8 @@
     --cointainer-with-md: 86%;
     --cointainer-with-sm: 90%;
 
+
+    --transition: all 400ms ease;
 }
 
  html {
@@ -71,3 +73,47 @@
     color: var(--color-primary);
     margin-bottom: 3rem;
   }
+
+  .text-light{
+    color: var(--color-light);
+  }
+  
+  a {
+    color: var(--color-primary);
+    transition: var(--transition);
+  }
+
+  a:hover {
+    color: var(--color-white);
+  }
+
+  .btn {
+    width: max-content;
+    display: inline-block;
+    color: var(--color-primary);
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid var(--color-primary);
+    transition:var(--transition) ; 
+  }
+
+  .btn :hover{
+     background: var(--color-white);
+     color: var(--color-bg);
+     border-color: transparent;
+  }
+
+  .btn-primary{
+    background: var(--color-primary);
+    color: var(--color-bg);
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+  }
+
+
+  

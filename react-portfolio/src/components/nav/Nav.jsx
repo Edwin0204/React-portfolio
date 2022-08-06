@@ -9,7 +9,7 @@ import {RiContactsBook2Fill} from 'react-icons/ri'
 const Nav = () => {
   return (
     <nav>
-      <a href='#'><IoIosHome/></a>
+      <a href='#' className='active'><IoIosHome/></a>
       <a href='#about'><SiAboutdotme/></a>
       <a href='#experience'><BsFillFileEarmarkCodeFill/></a>
       <a href='#services'><MdOutlineLanguage/></a>

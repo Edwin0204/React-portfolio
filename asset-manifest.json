@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.bd424163.css",
+    "main.js": "/React-portfolio/static/js/main.3ee18907.js",
+    "static/media/wardrobe assistant.PNG": "/React-portfolio/static/media/wardrobe assistant.d78081ca4745dc0e0429.PNG",
+    "static/media/IMG_20190909_125342.jpg": "/React-portfolio/static/media/IMG_20190909_125342.3d68b85c8aed2b64087c.jpg",
+    "static/media/IMG_20190904_075237.jpg": "/React-portfolio/static/media/IMG_20190904_075237.d9fd7c31cb10717683d7.jpg",
+    "static/media/Weather Dashboard.png": "/React-portfolio/static/media/Weather Dashboard.c15ddafa3a4873d36f15.png",
+    "static/media/Simpson Edwin Resume.pdf": "/React-portfolio/static/media/Simpson Edwin Resume.593a20d046b0a9e5cc39.pdf",
+    "static/media/11-express-homework-demo-01.png": "/React-portfolio/static/media/11-express-homework-demo-01.7852f5367aad182625ec.png",
+    "static/media/Bcash.png": "/React-portfolio/static/media/Bcash.c411ff3958690acfc71a.png",
+    "static/media/45-degree-fabric-light.png": "/React-portfolio/static/media/45-degree-fabric-light.3e9170690495094b2f13.png",
+    "static/media/Day planer.PNG": "/React-portfolio/static/media/Day planer.c10bc625db70c24141d0.PNG",
+    "static/media/coding quiz.PNG": "/React-portfolio/static/media/coding quiz.286cf6bd2c87c9876fae.PNG",
+    "index.html": "/React-portfolio/index.html",
+    "main.bd424163.css.map": "/React-portfolio/static/css/main.bd424163.css.map",
+    "main.3ee18907.js.map": "/React-portfolio/static/js/main.3ee18907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd424163.css",
+    "static/js/main.3ee18907.js"
+  ]
+}
